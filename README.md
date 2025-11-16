@@ -1,4 +1,4 @@
-## Let's grow together 👋
+## Let's grow together! 👋
 - 😄 I'm crazy about Python.
 - 🔭 I love to resolve sophistical issues.
 
