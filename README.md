@@ -1,6 +1,7 @@
-## Let's grow together! 👋
+## Hi, there! 👋
 - 😄 I'm crazy about Python.
 - 🔭 I love to resolve sophistical issues.
+- 👯 Let's grow together!
 
 <!--
 **arcsolutions725/arcsolutions725** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
