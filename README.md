@@ -1,5 +1,5 @@
 ## Hi, there! 👋
-- 😄 I love Python and Flutter.
+- 😄 I love to learn something new.
 - 🔭 I love to resolve sophistical issues.
 - 👯 Let's grow together!
 
